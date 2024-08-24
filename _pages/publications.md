@@ -7,11 +7,11 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.hk/citations?user=QZve5gQAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
 
 > 2024
-- **Tai Yue**, Yibo Jin, Fengwei Zhang, Zhenyu Ning, Pengfei Wang, Xu Zhou, Kai Lu
-**Efficiently Rebuilding Coverage in Hardware-Assisted Greybox Fuzzing.**
+- **Tai Yue**, Yibo Jin, Fengwei Zhang, Zhenyu Ning, Pengfei Wang, Xu Zhou, Kai Lu.<br>
+**Efficiently Rebuilding Coverage in Hardware-Assisted Greybox Fuzzing.**<br>
 To appear in proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024), 2024.
-- Jinting Wu, Haodong Zheng, Yu Wang, **Tai Yue**, Fengwei Zhang.
-**Tatoo: A Flexible Hardware Platform for Binary-Only Fuzzing.**
+- Jinting Wu, Haodong Zheng, Yu Wang, **Tai Yue**, Fengwei Zhang.<br>
+**Tatoo: A Flexible Hardware Platform for Binary-Only Fuzzing.**<br>
 To appear in proceedings of the 61st IEEE/ACM Design Automation Conference (DAC'24), 2024.
 - **Tai Yue**, Fengwei Zhang, Zhenyu Ning, Pengfei Wang, Xu Zhou, Kai Lu, Lei Zhou.
 **Armor: Protecting Software Against Hardware Tracing Techniques.**
