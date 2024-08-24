@@ -21,7 +21,7 @@ repository               : "MoonLight-SteinsGate/MoonLight-SteinsGate.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yuetai.png"
   name             : "Tai Yue"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Researcher at the Academy of Military Science. Focus on system security and system for AI."
