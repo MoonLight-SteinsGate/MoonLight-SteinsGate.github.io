@@ -9,10 +9,10 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
 > 2024
 - **Tai Yue**, Yibo Jin, Fengwei Zhang, Zhenyu Ning, Pengfei Wang, Xu Zhou, Kai Lu.<br>
 **Efficiently Rebuilding Coverage in Hardware-Assisted Greybox Fuzzing.**<br>
-To appear in proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024), 2024.
+In proceedings of the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2024), 2024.
 - Jinting Wu, Haodong Zheng, Yu Wang, **Tai Yue**, Fengwei Zhang.<br>
 **Tatoo: A Flexible Hardware Platform for Binary-Only Fuzzing.**<br>
-To appear in proceedings of the 61st IEEE/ACM Design Automation Conference (DAC'24), 2024.
+In proceedings of the 61st IEEE/ACM Design Automation Conference (DAC'24), 2024.
 - **Tai Yue**, Fengwei Zhang, Zhenyu Ning, Pengfei Wang, Xu Zhou, Kai Lu, Lei Zhou.<br>
 **Armor: Protecting Software Against Hardware Tracing Techniques.**<br>
 IEEE Transactions on Information Forensics and Security (TIFS), 2024.
@@ -49,6 +49,11 @@ Proceedings of the 2021 IEEE International Conference on Software Analysis, Evol
 - **Tai Yue**, Pengfei Wang, Yong Tang, Enze Wang, Bo Yu, Kai Lu, Xu Zhou.<br>
 **EcoFuzz: Adaptive Energy-Saving Greybox Fuzzing as a Variant of the Adversarial Multi-Armed Bandit.**<br>
 Proceedings of the 29th USENIX Security Symposium (USENIX Security'20), 2020.
+
+> 2019
+- **Tai Yue**, Yong Tang, Bo Yu, Pengfei Wang, Yong Tang, Enze Wang.<br>
+**LearnAFL: Greybox Fuzzing With Knowledge Enhancement.**<br>
+IEEE Access, 2019.
 
 
 
