@@ -36,6 +36,9 @@ Proceedings of the 15th European Workshop on Systems Security (EuroSec'22), 2022
 - Gen Zhang, Pengfei Wang, **Tai Yue**, Xiangdong Kong, Xu Zhou, Kai Lu.<br>
 **OvAFLow: Detecting Memory Corruption Bugs with Fuzzing-based Taint Inference.**<br>
 Journal of Computer Science and Technology (JCST), 2022.
+- Gen Zhang, Pengfei Wang, **Tai Yue**, Xiangdong Kong, Shan Huang, Xu Zhou, Kai Lu.<br>
+**MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing.**<br>
+Proceeding of Network and Distributed System Security Symposium 2022 (NDSS'22), 2022.
 
 > 2021
 - Gen Zhang, Pengfei Wang, **Tai Yue**, Xu Zhou, Kai Lu.<br>
